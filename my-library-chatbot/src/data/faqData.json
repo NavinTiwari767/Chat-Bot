@@ -1,0 +1,59 @@
+[
+  {
+    "question": "timing",
+    "answer": "Library timing: Monday to Friday 9:00 AM – 12:00 AM, Saturday & Sunday 9:00 AM – 5:30 PM. Extended hours until 12:00 AM during exams."
+  },
+  {
+    "question": "contact",
+    "answer": "Contact us at: library@iiserbpr.ac.in, Phone: +91 680 2227 707, Website: https://library.iiserbpr.ac.in"
+  },
+  {
+    "question": "about",
+    "answer": "The Central Library at IISER Berhampur is the main resource center for academic and research activities. It provides a wide range of resources to support students and faculty, including electronic and print collections, research support, and training programs."
+  },
+  {
+    "question": "services",
+    "answer": "Services include WebOPAC, Journals, e-Books, Research Support Tools, Training & Workshops, Document Delivery Services (DDS), and Study Tools."
+  },
+  {
+    "question": "rules",
+    "answer": "Eligibility: Students, faculty, and staff of IISER Berhampur. Membership required. External members may also join. Borrowing limit: 2 weeks, ₹10/day late fine."
+  },
+  {
+    "question": "staff",
+    "answer": "Librarian: Dr. Nihar Kanta Patra, Assistant Librarian: Snehashish Dash."
+  },
+  {
+    "question": "borrowing_privileges",
+    "answer": {
+      "Faculty": "20 books for 6 months",
+      "Visiting Faculty/Staff/Post-Doctoral Fellows": "10 books for 2 months",
+      "Ph.D. Students": "4 books for 2 weeks (10 books for 60 days after coursework completion)",
+      "IntPhD Students": "4 books for 2 weeks (10 books for 60 days after coursework completion)",
+      "BS-MS Students": "4 books for 2 weeks"
+    }
+  },
+  {
+    "question": "general_guidelines",
+    "answer": [
+      "Strict silence must be maintained inside the library.",
+      "Consumption of food and drinks is prohibited.",
+      "Use of mobile phones is allowed in silent mode only for accessing mobile-based library services.",
+      "Mutilation of books in any form will lead to a fine or replacement of the book.",
+      "Users must carry their institute identity card for borrowing books.",
+      "Reference books, journals, and magazines are for consultation within the library only."
+    ]
+  },
+  {
+    "question": "online_resources",
+    "answer": [
+      "Grammarly",
+      "SciFinder",
+      "Digital Library of Theses and Dissertations",
+      "OpenAthens",
+      "Turnitin",
+      "DrillBit",
+      "Edzter"
+    ]
+  }
+]
